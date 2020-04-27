@@ -9,3 +9,5 @@ All dependencies have been included.
 ## To run your code
 
 Remember, your code won't run unless you convert it to typescript! I suggest that you look for the "tsc watch" command in the `Terminal->Run Task` menu and run it at the beginning of every coding session. It should automatically convert your typescript to javascript as you work. You can also run "tsc build" from that same menu to do the conversion just one time.
+
+Once the javascript is created, use the good old "Go Live" button to run the code.
