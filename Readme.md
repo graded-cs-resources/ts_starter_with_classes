@@ -1,4 +1,4 @@
-# P5ts With Classes - Starter Project
+# ts With Classes - Starter Project
 
 This allows you to start with a very simple project that has a class (imported as a javascript moduel) called Box.
 
